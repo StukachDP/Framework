@@ -1,0 +1,11 @@
+# files
+.idea
+*.db
+*.log
+*.iml
+target/
+.idea/
+
+# directories
+target/
+bin/
